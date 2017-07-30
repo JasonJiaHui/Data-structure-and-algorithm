@@ -16,6 +16,25 @@ text_processing
 
 -----kmp.c
    
+=================================
+Data Compression
+
+Arithmetic encoding
+
+
+BWT encoding & decoding
+
+
+Huffman
+
+-----Static Huffman
+
+-----Adaptive Huffman
+
+        -----FGK
+        
+        -----Vitter
+        
 trie
 
 -----prefix_suffix_trie
